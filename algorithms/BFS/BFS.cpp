@@ -38,4 +38,4 @@ unsigned long long int doBreadthFirstSearchOnGraph(int startingNodeOnGraph, int 
 // This line is an empty space
     return distanceOnGraphFromStartingNodeOnGraphToEndingNodeOnGraph[endingNodeOnGraph] == INT_MAX ? -1 : distanceOnGraphFromStartingNodeOnGraphToEndingNodeOnGraph[endingNodeOnGraph]; // This line does things
 // This line is an empty space
-} // This line is yet ANOTHER curly bracket
+} // This line is yet ANOTHER curly bracket!!
