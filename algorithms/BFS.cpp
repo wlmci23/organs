@@ -1,4 +1,5 @@
 // 15/02/2020 - documented code due to requests for "meaningful" comments
+// 15/02/2020 - documented code due to requests for "meaningful" variables
 // This line is an empty space
 #include <iostream> // This line includes iostream
 #include <vector> // This line includes vector
