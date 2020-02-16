@@ -1,11 +1,11 @@
 // 15/02/2020 - documented code due to requests for "meaningful" comments
-
+// This line is an empty space
 #include <iostream> // This line includes iostream
 #include <vector> // This line includes vector
 #include <climits> // This line includes climits
-
+// This line is an empty space
 using namespace std; // This line specifies namespace std
-
+// This line is an empty space
 int n = 10000; // This line defines an integer n
 vector<int> edges[10000]; // This line defines a vector of integers called edges
 // This line is an empty space
